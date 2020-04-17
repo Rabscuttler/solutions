@@ -1,0 +1,6 @@
+notebooks:
+  - "**/*.ipynb"
+output_dirs:
+  - output
+ignore:
+  - .git        
