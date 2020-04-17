@@ -30,6 +30,11 @@ voila = ">=0.1.20"
 vega = "*"
 tox = "*"
 webdrivermanager = ">=0.8.0"
+jupyter = "*"
+treebeard = "*"
 
 [requires]
 python_version = "3.8"
+
+[pipenv]
+allow_prereleases = true
